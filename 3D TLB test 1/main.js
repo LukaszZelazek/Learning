@@ -121,7 +121,7 @@ this._scene.add( line1 );
 const box2 = new THREE.Mesh(
   new THREE.BoxGeometry(10, 10, 10), //depth, height, lenght
   new THREE.MeshLambertMaterial({
-      color: 0x001433,
+      color: 0xe6ecff,
       transparent:true,
       opacity:0.93,
       wireframe:false,
@@ -137,7 +137,7 @@ this._scene.add( line2 );
 const box3 = new THREE.Mesh(
   new THREE.BoxGeometry(10, 10, 10), //depth, height, lenght
   new THREE.MeshLambertMaterial({
-      color: 0x001433,
+      color: 0x99b3ff,
       transparent:true,
       opacity:0.93,
       wireframe:false,
@@ -153,7 +153,7 @@ this._scene.add( line3 );
 const box4 = new THREE.Mesh(
   new THREE.BoxGeometry(10, 10, 10), //depth, height, lenght
   new THREE.MeshLambertMaterial({
-      color: 0x001433,
+      color: 0x3366ff,
       transparent:true,
       opacity:0.93,
       wireframe:false,
@@ -169,7 +169,7 @@ this._scene.add( line4 );
 const box5 = new THREE.Mesh(
   new THREE.BoxGeometry(10, 10, 10), //depth, height, lenght
   new THREE.MeshLambertMaterial({
-      color: 0x001433,
+      color: 0x3366ff,
       transparent:true,
       opacity:0.93,
       wireframe:false,
@@ -185,7 +185,7 @@ this._scene.add( line5 );
 const box6 = new THREE.Mesh(
   new THREE.BoxGeometry(10, 10, 10), //depth, height, lenght
   new THREE.MeshLambertMaterial({
-      color: 0x001433,
+      color: 0x002699,
       transparent:true,
       opacity:0.93,
       wireframe:false,
@@ -201,7 +201,7 @@ this._scene.add( line6 );
 const box7 = new THREE.Mesh(
   new THREE.BoxGeometry(10, 10, 10), //depth, height, lenght
   new THREE.MeshLambertMaterial({
-      color: 0x001433,
+      color: 0x002699,
       transparent:true,
       opacity:0.93,
       wireframe:false,
